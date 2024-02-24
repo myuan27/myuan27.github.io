@@ -61,7 +61,6 @@ Tutor and Demonstrator
   * Project: Load prediction in industrial parks
 * Jiawei Zhou (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Optimization of battery charging
-
 * Chin Xian Ang (Robotic Research Engineer, currently in HP, Singapore), Nanyang Technological University, Singapore
   * Model-based controller design for wheelchair and robot motion planning using model predictive control.
 
