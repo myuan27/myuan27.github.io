@@ -27,13 +27,16 @@ Journal Papers
 
 6. **Meng Yuan**\*, Zhezhuang Xu, [Tracking Control of Single-Axis Feed Drives Based on ADRC and Feedback Linearisation](https://www.mdpi.com/2079-9292/10/10/1184), *Electronics*, vol. 10, no. 10, 2021.
 
-6. **Meng Yuan**\*, Chris Manzie, Malcolm Good, Iman Shames, Lu Gan, Farzad Keynejad, Troy Robinette, [A Review of Industrial Tracking Control](https://www.sciencedirect.com/science/article/pii/S0967066120301386) Algorithms, *Control Engineering Practice*, vol. 104536, pp. 104536, 2020.
-7. **Meng Yuan**\*, Chris Manzie, Malcolm Good, Iman Shames, Lu Gan, Farzad Keynejad, Troy Robinette, [Error-bounded Reference Tracking Mpc for Machines with Structural Flexibility](https://ieeexplore.ieee.org/abstract/document/8887465), *IEEE Transactions on Industrial Electronics*, vol. 67, no. 10, 2020.
-8. Li Zhang, Ping Zhou, He-da Song, **Meng Yuan**, Tian-you Chai, [Multivariable Dynamic Modeling for Molten Iron Quality using Incremental Random Vector Functional-link Networks](https://link.springer.com/article/10.1016/S1006-706X(16)30170-4), *Journal of Iron and Steel Research International*, vol. 23, pp. 1151-1159, 2016.
-9. Ping Zhou, Shaowen Lu, **Meng Yuan**, Tianyou Chai, [Survey On Higher-level Advanced Control for Grinding Circuits Operation](https://www.sciencedirect.com/science/article/pii/S0032591015301534), *Powder Technology*, vol. 288, pp. 324-338, 2016.
-10. Ping Zhou, **Meng Yuan**, Hong Wang, Zhuo Wang, Tian-You Chai, [Multivariable Dynamic Modeling For Molten Iron Quality Using Online Sequential Random Vector Functional-link Networks With Self-feedback Connections](https://www.sciencedirect.com/science/article/pii/S0020025515004855), *Information Sciences*, vol. 325, pp. 237-255, 2015.
-11. **Meng Yuan**\*, Ping Zhou, Ming-liang Li, Rui-feng Li, Hong Wang, Tian-you Chai, [Intelligent Multivariable Modeling of Blast Furnace Molten Iron Quality based on Dynamic AGA-ANN and PCA](https://link.springer.com/article/10.1016/S1006-706X(15)30031-5), *Journal of Iron and Steel Research International*, vol. 22, pp. 487-495, 2015.
-12. Ping Zhou, **Meng Yuan**, Hong Wang, Tianyou Chai, [Data-driven Dynamic Modeling for Prediction of Molten Iron Silicon Content using ELM with Self-feedback](https://www.hindawi.com/journals/mpe/2015/326160/), *Mathematical Problems in Engineering*, 2015.
+7. **Meng Yuan**\*, Chris Manzie, Malcolm Good, Iman Shames, Lu Gan, Farzad Keynejad, Troy Robinette, [A Review of Industrial Tracking Control Algorithms](https://www.sciencedirect.com/science/article/pii/S0967066120301386), *Control Engineering Practice*, vol. 104536, pp. 104536, 2020.
+8. **Meng Yuan**\*, Chris Manzie, Malcolm Good, Iman Shames, Lu Gan, Farzad Keynejad, Troy Robinette, [Error-bounded Reference Tracking Mpc for Machines with Structural Flexibility](https://ieeexplore.ieee.org/abstract/document/8887465), *IEEE Transactions on Industrial Electronics*, vol. 67, no. 10, 2020.
+9. Li Zhang, Ping Zhou, He-da Song, **Meng Yuan**, Tian-you Chai, [Multivariable Dynamic Modeling for Molten Iron Quality using Incremental Random Vector Functional-link Networks](https://link.springer.com/article/10.1016/S1006-706X(16)30170-4), *Journal of Iron and Steel Research International*, vol. 23, pp. 1151-1159, 2016.
+
+10. Ping Zhou, Shaowen Lu, **Meng Yuan**, Tianyou Chai, [Survey On Higher-level Advanced Control for Grinding Circuits Operation](https://www.sciencedirect.com/science/article/pii/S0032591015301534), *Powder Technology*, vol. 288, pp. 324-338, 2016.
+
+11. Ping Zhou, **Meng Yuan**, Hong Wang, Zhuo Wang, Tian-You Chai, [Multivariable Dynamic Modeling For Molten Iron Quality Using Online Sequential Random Vector Functional-link Networks With Self-feedback Connections](https://www.sciencedirect.com/science/article/pii/S0020025515004855), *Information Sciences*, vol. 325, pp. 237-255, 2015.
+
+12. **Meng Yuan**\*, Ping Zhou, Ming-liang Li, Rui-feng Li, Hong Wang, Tian-you Chai, [Intelligent Multivariable Modeling of Blast Furnace Molten Iron Quality based on Dynamic AGA-ANN and PCA](https://link.springer.com/article/10.1016/S1006-706X(15)30031-5), *Journal of Iron and Steel Research International*, vol. 22, pp. 487-495, 2015.
+13. Ping Zhou, **Meng Yuan**, Hong Wang, Tianyou Chai, [Data-driven Dynamic Modeling for Prediction of Molten Iron Silicon Content using ELM with Self-feedback](https://www.hindawi.com/journals/mpe/2015/326160/), *Mathematical Problems in Engineering*, 2015.
 
 
 Conference Papers
