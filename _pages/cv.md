@@ -36,7 +36,7 @@ Tutor and Demonstrator
 * MCEN9001 - Advanced Motion Control, University of Melbourne, 2019
 * MCEN90032 - Sensor Systems, University of Melbourne, 2019
 
-## Supervison
+## Supervision
 
 ### PhD Students
 
