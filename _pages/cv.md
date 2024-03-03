@@ -43,6 +43,9 @@ Tutor and Demonstrator
 * Chi Liu (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Project: Load prediction in industrial parks
 
+* Ye Lin (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
+  * Project: Machine learning techniques for wood Broken Defect Detection
+
 * Jinlong Wang (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Project: Optimization of steel plate shuffling and truck loading sequencing
 
