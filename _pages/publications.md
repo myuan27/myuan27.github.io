@@ -8,13 +8,12 @@ author_profile: true
 
 [Google Scholar](https://scholar.google.com/citations?user=Zw2j7kwAAAAJ&hl=en)
 
-[//]: # (Preprints and Submissions)
+Preprints and Submissions
+---------
 
-[//]: # (---------)
+*  Ye Lin, Zhezhuang Xu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan, Pointer generation and main scale detection for occluded meter reading based on generative adversarial network, *Measurement*, 2024 (under review).
 
-[//]: # (*  Ye Lin, Zhezhuang Xu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan, Pointer generation and main scale detection for occluded meter reading based on generative adversarial network, *Measurement*, 2024 &#40;under review&#41;.)
-
-[//]: # (* **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, Contouring Error Bounded Control for Biaxial Switched Linear Systems, *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2024 &#40;under review&#41;)
+* **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, Contouring Error Bounded Control for Biaxial Switched Linear Systems, *IEEE Transactions on Systems, Man and Cybernetics: Systems*, 2024 (under review)
 
 Journal Papers
 --------------
