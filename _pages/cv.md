@@ -60,6 +60,8 @@ Tutor and Demonstrator
 
 ### Postgraduate Students
 
+* Adam Burman (Main supervisor: Prof Changfu Zou), Chalmers University of Technology, Sweden
+
 * Junwei Xie (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Project: Load prediction in industrial parks
 * Jiawei Zhou (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
