@@ -69,6 +69,10 @@ Tutor and Demonstrator
 * Chin Xian Ang (Robotic Research Engineer, currently in HP, Singapore), Nanyang Technological University, Singapore
   * Model-based controller design for wheelchair and robot motion planning using model predictive control.
 
+### Undergraduate Students
+
+* [Hanlin Cai](https://caihanlin.com/), Fuzhou University, China
+  * Will be joining Cambridge University in Sep 2024 for MPhil
 
 ## Journal reviewer
 
