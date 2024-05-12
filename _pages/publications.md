@@ -11,14 +11,13 @@ author_profile: true
 Preprints and Submissions
 ---------
 
-*  Ye Lin, Zhezhuang Xu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan, Pointer generation and main scale detection for occluded meter reading based on generative adversarial network, 2024 (under review).
-
 * **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, Contouring Error Bounded Control for Biaxial Switched Linear Systems, 2024 (under review)
 
 Journal Papers
 --------------
 
-1. Zhezhuang Xu, Jinlong Wang, **Meng Yuan**\*, Yazhou Yuan, Biyu Chen, Qingdong Zhang, Cailian Chen, Xinping Guan, [Joint Optimization of Steel Plate Shuffling and Truck Loading Sequencing Based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1474034624000405), *Advanced Engineering Informatics*, vol.60, 2024.
+1. Ye Lin, Zhezhuang Xu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan, [Pointer generation and main scale detection for occluded meter reading based on generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0263224124007218), Measurement, 2024.
+2. Zhezhuang Xu, Jinlong Wang, **Meng Yuan**\*, Yazhou Yuan, Biyu Chen, Qingdong Zhang, Cailian Chen, Xinping Guan, [Joint Optimization of Steel Plate Shuffling and Truck Loading Sequencing Based on Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S1474034624000405), *Advanced Engineering Informatics*, vol.60, 2024.
 2. Zhezhuang Xu, Ye Lin, Dan Chen, **Meng Yuan**, Yuhang Zhu, Zhijie Ai, Yazhou Yuan, [Wood Broken Defect Detection with Laser Profilometer Based on Bi-lstm Network](https://www.sciencedirect.com/science/article/pii/S0957417423032918), *Expert Systems with Applications*, vol. 242, 2024.
 3. **Meng Yuan**\*, Ye Wang, Lei Li, Tianyou Chai, Wei Tech Ang, [Safety-based Speed Control of a Wheelchair using Robust Adaptive Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10251978), *IEEE Transactions on Cybernetics*, Early Access, 2023.
 4. Sibo Yang, Neha P Garg, Ruobin Gao, **Meng Yuan**, Bernardo Noronha, Wei Tech Ang, Dino Accoto, [Learning-Based Motion-Intention Prediction for End-Point Control of Upper-Limb-Assistive Robots](https://www.mdpi.com/1424-8220/23/6/2998), *Sensors*, vol. 23, no. 6, pp. 2998, 2023.
