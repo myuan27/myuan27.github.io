@@ -16,4 +16,6 @@ I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowshi
 
 News and Updates
 ----------------
+* **2024.10** Our paper "Occluded Meter Reading with Pointer Mask Generation Based on Generative Adversarial Network" has been accepted to *IEEE Transactions on Instrumentation & Measurement*
+
 * **2024.01** Our paper "Joint Optimization of Steel Plate Shuffling and Truck Loading Sequencing Based on Deep Reinforcement Learning" has been accepted to *Advanced Engineering Informatics*.
