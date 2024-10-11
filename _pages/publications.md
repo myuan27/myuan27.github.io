@@ -11,9 +11,9 @@ author_profile: true
 Preprints and Submissions
 ---------
 
-* **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, Contouring Error Bounded Control for Biaxial Switched Linear Systems, 2024 (under review)
+* **Meng Yuan**\*, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, Contouring Error Bounded Control for Biaxial Switched Linear Systems, 2024 (under review)
 
-* Chi Liu, Zhezhuang Xu, **Meng Yuan**, Junwei Xie, Yazhou Yuan, Kai Ma, Building electrical load forecasting with occupancy data based on
+* Chi Liu, Zhezhuang Xu, **Meng Yuan**\*, Junwei Xie, Yazhou Yuan, Kai Ma, Building electrical load forecasting with occupancy data based on
 wireless sensing, *Applied Energy*, 2024 (under review)
 
 
