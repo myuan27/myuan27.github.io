@@ -16,6 +16,12 @@ I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowshi
 
 News and Updates
 ----------------
-* **2024.10** Our paper "Occluded Meter Reading with Pointer Mask Generation Based on Generative Adversarial Network" has been accepted to *IEEE Transactions on Instrumentation & Measurement*
+* **2024.10** Our paper "Occluded Meter Reading with Pointer Mask Generation Based on Generative Adversarial Network" has been accepted to *IEEE Transactions on Instrumentation & Measurement*. It will be online soon.
 
+* **2024.09** Conference paper by Master's student Junwei Xie, "Short-term Load Forecasting for Buildings Based on a Dynamic Weighted edRVFL Model" has been accepted for the China Automation Congress (CAC 2025). It will be presented as a poster in November 2025 in Qingdao, China.
+
+* **2024.07** Our paper "Pointer generation and main scale detection for occluded meter reading based on generative adversarial network" has been accepted to *Measurement*.
+
+* **2024.05** Our paper "Wood Broken Defect Detection with Laser Profilometer Based on Bi-lstm Network" has been accepted to *Expert Systems with Applications*.
+* 
 * **2024.01** Our paper "Joint Optimization of Steel Plate Shuffling and Truck Loading Sequencing Based on Deep Reinforcement Learning" has been accepted to *Advanced Engineering Informatics*.
