@@ -16,14 +16,14 @@ I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowshi
 
 News and Updates
 ----------------
-* **2024.11** Our paper "Building Electrical Load Forecasting with Occupancy Data Based on Wireless Sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
+* **2024.11** Our paper "Building electrical load forecasting with occupancy data based on wireless sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
 
-* **2024.10** Our paper "Occluded Meter Reading with Pointer Mask Generation Based on Generative Adversarial Network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*. It will be available online soon.
+* **2024.10** Our paper "Occluded meter reading with pointer mask generation based on generative adversarial network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*. It will be available online soon.
 
-* **2024.09** Conference paper by Master's student Junwei Xie, "Short-term Load Forecasting for Buildings Based on a Dynamic Weighted edRVFL Model" has been accepted for the China Automation Congress (CAC 2025). It will be presented as a poster in November 2025 in Qingdao, China.
+* **2024.09** Conference paper by Master's student Junwei Xie, "Short-term load forecasting for buildings based on a dynamic weighted edRVFL model" has been accepted for the China Automation Congress (CAC 2025). It will be presented as a poster in November 2025 in Qingdao, China.
 
 * **2024.07** Our paper "Pointer generation and main scale detection for occluded meter reading based on generative adversarial network" has been accepted to *Measurement*.
 
-* **2024.05** Our paper "Wood Broken Defect Detection with Laser Profilometer Based on Bi-lstm Network" has been accepted to *Expert Systems with Applications*.
+* **2024.05** Our paper "Wood broken defect detection with laser profilometer based on bi-lstm network" has been accepted to *Expert Systems with Applications*.
 
-* **2024.01** Our paper "Joint Optimization of Steel Plate Shuffling and Truck Loading Sequencing Based on Deep Reinforcement Learning" has been accepted to *Advanced Engineering Informatics*.
+* **2024.01** Our paper "Joint optimization of steel plate shuffling and truck loading sequencing based on deep reinforcement learning" has been accepted to *Advanced Engineering Informatics*.
