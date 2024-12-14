@@ -16,6 +16,8 @@ I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowshi
 
 News and Updates
 ----------------
+* **2024.11** Our paper "Building Electrical Load Forecasting with Occupancy Data Based on Wireless Sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
+
 * **2024.10** Our paper "Occluded Meter Reading with Pointer Mask Generation Based on Generative Adversarial Network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*. It will be available online soon.
 
 * **2024.09** Conference paper by Master's student Junwei Xie, "Short-term Load Forecasting for Buildings Based on a Dynamic Weighted edRVFL Model" has been accepted for the China Automation Congress (CAC 2025). It will be presented as a poster in November 2025 in Qingdao, China.
