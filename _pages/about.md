@@ -16,6 +16,8 @@ I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowshi
 
 News and Updates
 ----------------
+* **2025.03** Our paper "Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling" has been accepted by *European Control Conference (ECC)*. I am looking forward to engaging with fellow researchers in Greece this June.
+
 * **2024.11** Our paper "Building electrical load forecasting with occupancy data based on wireless sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
 
 * **2024.10** Our paper "Occluded meter reading with pointer mask generation based on generative adversarial network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*. It will be available online soon.
