@@ -13,6 +13,10 @@ I am a Researcher at the Automatic Control research group, [Division of Systems 
 
 I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowship ([MSCA-PF](https://research.chalmers.se/en/project/11168)) in 2023, hosted by A/Prof [Changfu Zou](https://sites.google.com/view/changfu) at Chalmers.
 
+I welcome inquiries and collaboration on my research. Please feel free to contact me via: 
+
+Email: meng.yuan [at] chalmers.se; meng.yuan [at] ieee.org
+
 
 News and Updates
 ----------------
