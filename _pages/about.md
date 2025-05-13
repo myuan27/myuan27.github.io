@@ -20,6 +20,9 @@ Email: meng.yuan [at] chalmers.se; meng.yuan [at] ieee.org
 
 News and Updates
 ----------------
+
+* **2025.06** I will be presenting research on battery safety and recycling at the Swedish Control Conference (Reglermötet 2025) in Lund, Sweden. Excited to discuss sustainable energy applications in control systems.
+
 * **2025.03** Our paper "Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling" has been accepted by *European Control Conference (ECC)*. I am looking forward to engaging with fellow researchers in Greece this June.
 
 * **2024.11** Our paper "Building electrical load forecasting with occupancy data based on wireless sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
