@@ -17,7 +17,7 @@ Preprints and Submissions
 
 * **Meng Yuan**, Adam Burman, Changfu Zou, Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling, European Control Conference (ECC), 2025 (accepted)
 
-* **Meng Yuan**\*, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, Contouring Error Bounded Control for Biaxial Switched Linear Systems, 2024 (under review)
+* **Meng Yuan**\*, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://arxiv.org/abs/2404.05404), 2024 (under review)
 
 
 
