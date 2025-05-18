@@ -15,12 +15,13 @@ Preprints and Submissions
 
 [//]: # (* **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term load forecasting for an industrial building based on diverse load patterns, 2025 &#40;under review&#41;)
 
+* **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term load forecasting for an industrial building based on diverse load patterns, 2025 (under review)
+
 * **Meng Yuan**, Changfu Zou, Lifelong reinforcement learning for health-aware fast charging of lithium-ion batteries, 2025 (under review)
 
 * **Meng Yuan**, Adam Burman, Changfu Zou, Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling, European Control Conference (ECC), 2025 (accepted)
 
 * **Meng Yuan**\*, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://arxiv.org/abs/2404.05404), 2024 (under review)
-
 
 
 Journal Papers
