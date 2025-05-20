@@ -62,6 +62,7 @@ Tutor and Demonstrator
 ### Postgraduate Students
 
 * Adam Burman (Main supervisor: Prof Changfu Zou), Chalmers University of Technology, Sweden
+  * Project: Enhancing EV battery recycling through discharge optimization 
 
 * Junwei Xie (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Project: Load prediction in industrial parks
@@ -72,8 +73,9 @@ Tutor and Demonstrator
 
 ### Undergraduate Students
 
-* [Hanlin Cai](https://caihanlin.com/), Fuzhou University, China
-  * Will be joining Cambridge University in Sep 2024 for MPhil
+* [Hanlin Cai](https://caihanlin.com/), Cambridge University, China
+
+[//]: # (* Will be joining Cambridge University in Sep 2024 for MPhil)
 
 ## Journal reviewer
 
