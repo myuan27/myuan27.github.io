@@ -15,6 +15,8 @@ Preprints and Submissions
 
 [//]: # (* **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term load forecasting for an industrial building based on diverse load patterns, 2025 &#40;under review&#41;)
 
+* **Meng Yuan**, Tianyou Chai, Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay, 2025 (under review)
+
 * **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term load forecasting for an industrial building based on diverse load patterns, 2025 (under review)
 
 * **Meng Yuan**, Changfu Zou, Lifelong reinforcement learning for health-aware fast charging of lithium-ion batteries, 2025 (under review)
