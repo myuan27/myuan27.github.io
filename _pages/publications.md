@@ -19,9 +19,9 @@ Preprints and Submissions
 
 * **Meng Yuan**, Tianyou Chai, Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay, *IEEE Transactions on Industrial Electronics*, 2025 (under review)
 
-* **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term load forecasting for an industrial building based on diverse load patterns, 2025 (under review)
+* **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term Load Forecasting For An Industrial Building Based On Diverse Load Patterns, 2025 (under review)
 
-* **Meng Yuan**, Changfu Zou, Lifelong reinforcement learning for health-aware fast charging of lithium-ion batteries, 2025 (under review)
+* **Meng Yuan**, Changfu Zou, Lifelong Reinforcement Learning For Health-aware Fast Charging Of Lithium-ion Batteries, 2025 (under review)
 
 * **Meng Yuan**, Adam Burman, Changfu Zou, Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling, European Control Conference (ECC), 2025 (accepted)
 
