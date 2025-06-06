@@ -23,8 +23,6 @@ Preprints and Submissions
 
 * **Meng Yuan**, Changfu Zou, Lifelong Reinforcement Learning for Health-aware Fast Charging of Lithium-ion Batteries, 2025 (under review)
 
-* **Meng Yuan**, Adam Burman, Changfu Zou, Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling, European Control Conference (ECC), 2025 (accepted)
-
 * **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://arxiv.org/abs/2404.05404), *IEEE Transactions on Systems, Man, and Cybernetics*, 2024 (under review)
 
 
@@ -52,14 +50,14 @@ wireless sensing](https://www.sciencedirect.com/science/article/abs/pii/S0306261
 
 Conference Papers
 --------------
-
-1. Sibo Yang, Lincong Luo, Muyao Liu, Jiaye Chen, Wei Chuan Law, **Meng Yuan**, Lei Li, Wei Tech Ang, [Adaptive Gravity Compensation Framework Based on Human Upper Limb Model for Assistive Robotic Arm Extender](https://ieeexplore.ieee.org/abstract/document/10304690), International Conference on Rehabilitation Robotics (ICORR), Singapore, 24-28 September 2023.
-2. Yifan Wang, **Meng Yuan**\*, Lei Li, Karen Sui Geok Chua, Wei Tech Ang, [Graceful User Following for Mobile Balance Assistive Robot in Daily Activities Assistance](https://www.sciencedirect.com/science/article/pii/S2405896323021262), 22nd IFAC World Congress
+1. * **Meng Yuan**, Adam Burman, Changfu Zou, Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling, European Control Conference (ECC), Greece, 2025.
+2. Sibo Yang, Lincong Luo, Muyao Liu, Jiaye Chen, Wei Chuan Law, **Meng Yuan**, Lei Li, Wei Tech Ang, [Adaptive Gravity Compensation Framework Based on Human Upper Limb Model for Assistive Robotic Arm Extender](https://ieeexplore.ieee.org/abstract/document/10304690), International Conference on Rehabilitation Robotics (ICORR), Singapore, 24-28 September 2023.
+3. Yifan Wang, **Meng Yuan**\*, Lei Li, Karen Sui Geok Chua, Wei Tech Ang, [Graceful User Following for Mobile Balance Assistive Robot in Daily Activities Assistance](https://www.sciencedirect.com/science/article/pii/S2405896323021262), 22nd IFAC World Congress
 Yokohama, Japan, July 9-14, 2023.
-3. Ruobin Gao, Sibo Yang, **Meng Yuan**, Xuefei Song, Ponnuthurai Nagaratnam Suganthan, Wei Tech Ang, [Online Ensemble Deep Random Vector Functional Link for the Assistive Robots](https://ieeexplore.ieee.org/abstract/document/10191330), International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, 18-23 June 2023.
-4. **Meng Yuan**\*, Chris Manzie, Lu Gan, Malcolm Good, Iman Shames, [Modelling And Contouring Error Bounded Control of A Biaxial Industrial Gantry Machine](https://ieeexplore.ieee.org/abstract/document/8920638), IEEE Conference on Control Technology and Applications (CCTA), Hong Kong, China, 19-21 August 2019.
-5. **Meng Yuan**\*, Chris Manzie, Malcolm Good, Iman Shames, Farzad Keynejad, Troy Robinette, [Bounded Error Tracking Control for Contouring Systems with End Effector Measurements](https://ieeexplore.ieee.org/abstract/document/8755064/), IEEE International Conference on Industrial Technology (ICIT), Melbourne, VIC, Australia, 13-15 February 2019.
-6. Ping Zhou, **Meng Yuan**, Hong Wang, [ELM Based Dynamic Modeling for Online Prediction of Molten Iron Silicon Content in Blast Furnace](https://link.springer.com/chapter/10.1007/978-3-319-14066-7_26), Proceedings of ELM, Singapore, 2014. 
+4. Ruobin Gao, Sibo Yang, **Meng Yuan**, Xuefei Song, Ponnuthurai Nagaratnam Suganthan, Wei Tech Ang, [Online Ensemble Deep Random Vector Functional Link for the Assistive Robots](https://ieeexplore.ieee.org/abstract/document/10191330), International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, 18-23 June 2023.
+5. **Meng Yuan**\*, Chris Manzie, Lu Gan, Malcolm Good, Iman Shames, [Modelling And Contouring Error Bounded Control of A Biaxial Industrial Gantry Machine](https://ieeexplore.ieee.org/abstract/document/8920638), IEEE Conference on Control Technology and Applications (CCTA), Hong Kong, China, 19-21 August 2019.
+6. **Meng Yuan**\*, Chris Manzie, Malcolm Good, Iman Shames, Farzad Keynejad, Troy Robinette, [Bounded Error Tracking Control for Contouring Systems with End Effector Measurements](https://ieeexplore.ieee.org/abstract/document/8755064/), IEEE International Conference on Industrial Technology (ICIT), Melbourne, VIC, Australia, 13-15 February 2019.
+7. Ping Zhou, **Meng Yuan**, Hong Wang, [ELM Based Dynamic Modeling for Online Prediction of Molten Iron Silicon Content in Blast Furnace](https://link.springer.com/chapter/10.1007/978-3-319-14066-7_26), Proceedings of ELM, Singapore, 2014. 
 
 
 {% if site.author.googlescholar %}
