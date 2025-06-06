@@ -15,7 +15,7 @@ Preprints and Submissions
 
 [//]: # (* **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, Short-term load forecasting for an industrial building based on diverse load patterns, 2025 &#40;under review&#41;)
 
-* Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, Deep Reinforcement Learning-based Joint Real-time Energy Scheduling for Green Buildings With Heterogeneous Battery Energy Storage Devices, 2025 (under review)
+* Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, Deep Reinforcement Learning-based Joint Real-time Energy Scheduling for Green Buildings with Heterogeneous Battery Energy Storage Devices, 2025 (under review)
 
 * **Meng Yuan**, Tianyou Chai, Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay, *IEEE Transactions on Industrial Electronics*, 2025 (under review)
 
