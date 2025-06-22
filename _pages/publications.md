@@ -50,7 +50,7 @@ wireless sensing](https://www.sciencedirect.com/science/article/abs/pii/S0306261
 
 Conference Papers
 --------------
-1. **Meng Yuan**, Adam Burman, Changfu Zou, Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling, European Control Conference (ECC), Greece, 2025.
+1. **Meng Yuan**, Adam Burman, Changfu Zou, [Robust Model Predictive Control of Fast Lithium-ion Battery Pretreatment for Safe Recycling](https://arxiv.org/abs/2503.11857), European Control Conference (ECC), Greece, 2025.
 2. Sibo Yang, Lincong Luo, Muyao Liu, Jiaye Chen, Wei Chuan Law, **Meng Yuan**, Lei Li, Wei Tech Ang, [Adaptive Gravity Compensation Framework Based on Human Upper Limb Model for Assistive Robotic Arm Extender](https://ieeexplore.ieee.org/abstract/document/10304690), International Conference on Rehabilitation Robotics (ICORR), Singapore, 24-28 September 2023.
 3. Yifan Wang, **Meng Yuan**\*, Lei Li, Karen Sui Geok Chua, Wei Tech Ang, [Graceful User Following for Mobile Balance Assistive Robot in Daily Activities Assistance](https://www.sciencedirect.com/science/article/pii/S2405896323021262), 22nd IFAC World Congress
 Yokohama, Japan, July 9-14, 2023.
