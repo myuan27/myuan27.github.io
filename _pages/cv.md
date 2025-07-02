@@ -66,14 +66,17 @@ Tutor and Demonstrator
 
 * Junwei Xie (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Project: Load prediction in industrial parks
+  
 * Jiawei Zhou (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
   * Optimization of battery charging
+
 * Chin Xian Ang (Robotic Research Engineer, currently in HP, Singapore), Nanyang Technological University, Singapore
   * Model-based controller design for wheelchair and robot motion planning using model predictive control.
 
 ### Undergraduate Students
 
-* [Hanlin Cai](https://caihanlin.com/), Cambridge University, China
+* [Hanlin Cai](https://caihanlin.com/), Fuzhou University, China
+    * Currently, a PhD student at the University of Cambridge, UK
 
 [//]: # (* Will be joining Cambridge University in Sep 2024 for MPhil)
 
