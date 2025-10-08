@@ -20,7 +20,7 @@ Work experience
 ---------------
   * 2024 - Present: Marie Skłodowska-Curie Fellow
     * Chalmers University of Technology, Sweden
-  * 2023 - Present: Associate Professor (tenure-track)
+  * 2023 - 2025: Associate Professor (tenure-track)
     * Fuzhou University, China
   * 2021 - 2023: Research Fellow
     * Nanyang Technological University, Singapore
