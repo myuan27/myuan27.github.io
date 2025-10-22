@@ -20,6 +20,7 @@ Email: meng.yuan [at] chalmers.se; meng.yuan [at] ieee.org
 
 News and Updates
 ----------------
+* **2025.10** Our paper "Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries" has been accepted by *IEEE Transactions on Transportation Electrification*.
 
 * **2025.06** I will be presenting research on battery safety and recycling at the Swedish Control Conference (Reglermötet 2025) in Lund, Sweden. Excited to discuss sustainable energy applications in control systems.
 
