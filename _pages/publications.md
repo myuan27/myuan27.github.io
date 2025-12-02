@@ -12,7 +12,7 @@ Preprints and Submissions
 ---------
 
 
-* Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, Deep Reinforcement Learning-based Joint Real-time Energy Scheduling for Green Buildings with Heterogeneous Battery Energy Storage Devices, 2025 (under review)
+* Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, Deep Reinforcement Learning-based Joint Real-time Energy Scheduling for Green Buildings with Heterogeneous Battery Energy Storage Devices, *Applied Energy*, 2025 (under review)
 
 * **Meng Yuan**, Tianyou Chai, Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay, 2025 (under review)
 
