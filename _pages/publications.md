@@ -23,7 +23,7 @@ Preprints and Submissions
 
 Journal Papers
 --------------
-1. **Meng Yuan**, Changfu Zou, [Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries](https://arxiv.org/abs/2505.11061), *IEEE Transactions on Transportation Electrification*, 2025.
+1. **Meng Yuan**, Changfu Zou, [Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries](https://ieeexplore.ieee.org/document/11217267), *IEEE Transactions on Transportation Electrification*, 2025.
 2. **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, [Short-term load forecasting for an industrial building based on diverse load patterns](https://www.sciencedirect.com/science/article/pii/S0360544225031238), *Energy*, 2025.
 3. Ruobin Gao, Sibo Yang, **Meng Yuan**, Zicheng Wang, Maohan Liang, Ponnuthurai Nagaratnam Suganthan, Kum Fai Yuen, [A Dynamic Ensemble Deep Randomized Neural Network Using Deep Autoregressive Features for Wave Height Forecasting With Missing Values](https://ieeexplore.ieee.org/abstract/document/11131328), *IEEE Journal of Oceanic Engineering*, 2025.
 4. Chi Liu, Zhezhuang Xu, **Meng Yuan**\*, Junwei Xie, Yazhou Yuan, Kai Ma, [Building electrical load forecasting with occupancy data based on
