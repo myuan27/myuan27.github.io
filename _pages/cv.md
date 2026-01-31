@@ -18,14 +18,21 @@ Education
 
 Work experience
 ---------------
-  * 2024 - Present: Marie Skłodowska-Curie Fellow
-    * Chalmers University of Technology, Sweden
-  * 2023 - 2025: Associate Professor (tenure-track)
-    * Fuzhou University, China
-  * 2021 - 2023: Research Fellow
-    * Nanyang Technological University, Singapore
-  * 2019 - 2020: Tutor and Demonstrator
-    * University of Melbourne, Australia
+
+[//]: # (  * 2026 — Present, Lecturer &#40;Assistant Professor&#41;)
+
+[//]: # (    * Victoria University of Wellington, New Zealand)
+
+
+* 2024 - 2025: Researcher, Marie Skłodowska-Curie Fellow
+  * Chalmers University of Technology, Sweden
+* 2023 - 2025: Associate Professor (tenure-track)
+  * Fuzhou University, China
+* 2021 - 2023: Research Fellow
+  * Nanyang Technological University, Singapore
+* 2019 - 2020: Tutor and Demonstrator
+  * University of Melbourne, Australia
+
 
 
 
