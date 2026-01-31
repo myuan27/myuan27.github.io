@@ -11,7 +11,7 @@ author_profile: true
 Preprints and Submissions
 ---------
 
-* **Meng Yuan**, Ye Wang, Xinghuo Yu, Torsten Wik, Changfu Zou, Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour, 2026 (under review)
+* **Meng Yuan**, Ye Wang, Xinghuo Yu, Torsten Wik, Changfu Zou, Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour, *IEEE Transactions on Sustainable Energy*, 2026 (under review)
 
 
 * **Meng Yuan**, Tianyou Chai, Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay, *IEEE Transactions on Industrial Electronics*, 2025 (under review)
