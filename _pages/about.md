@@ -35,9 +35,9 @@ News and Updates
 
 * **2024.11** Our paper "Building electrical load forecasting with occupancy data based on wireless sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
 
-* **2024.10** Our paper "Occluded meter reading with pointer mask generation based on generative adversarial network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*. It will be available online soon.
+* **2024.10** Our paper "Occluded meter reading with pointer mask generation based on generative adversarial network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*.
 
-* **2024.09** Conference paper by Master's student Junwei Xie, "Short-term load forecasting for buildings based on a dynamic weighted edRVFL model" has been accepted for the China Automation Congress (CAC 2025). It will be presented as a poster in November 2025 in Qingdao, China.
+* **2024.09** Conference paper by Master's student Junwei Xie, "Short-term load forecasting for buildings based on a dynamic weighted edRVFL model" has been accepted for the China Automation Congress (CAC 2025).
 
 * **2024.07** Our paper "Pointer generation and main scale detection for occluded meter reading based on generative adversarial network" has been accepted to *Measurement*.
 
