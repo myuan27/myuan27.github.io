@@ -20,7 +20,7 @@ Work experience
 ---------------
 
 * 2026 — Present, Lecturer (Assistant Professor)
-  * Victoria University of Wellington, New Zealand)
+  * Victoria University of Wellington, New Zealand
 * 2024 - 2025: Researcher, Marie Skłodowska-Curie Fellow
   * Chalmers University of Technology, Sweden
 * 2021 - 2023: Research Fellow
