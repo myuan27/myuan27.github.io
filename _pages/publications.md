@@ -19,7 +19,6 @@ Preprints and Submissions
 * **Meng Yuan**, Yang Li, Changfu Zou, Reinforcement learning for battery fast charging with state of health and plating-aware reward design, *IEEE Transactions on Transportation Electrification*, 2025 (under review)
 
 
-
 Journal Papers
 --------------
 1. **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://arxiv.org/abs/2404.05404), *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2026 (accepted)

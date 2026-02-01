@@ -13,7 +13,7 @@ Previously, I was a Marie Skłodowska-Curie Fellow and Researcher with the Autom
 
 Before that, I worked as a Research Fellow at the Rehabilitation Research Institute of Singapore, Nanyang Technological University, Singapore. I obtained my Ph.D. degree in the Department of Electrical and Electronic Engineering from the University of Melbourne in 2020, advised by Prof [Chris Manzie](https://findanexpert.unimelb.edu.au/profile/2763-chris-manzie), Prof [Iman Shames](https://researchers.anu.edu.au/researchers/shames-i), Prof [Iven Mareels](https://findanexpert.unimelb.edu.au/profile/1614-iven-mareels) (IEEE Fellow, IFAC Fellow) and Prof [Malcolm Good](https://findanexpert.unimelb.edu.au/profile/15115-malcolm-good). I completed my Master's degree in Control Theory and Control Engineering from the [State Key Laboratory of Synthetical Automation for Process Industries](http://www.sapi.neu.edu.cn/sapienglish/), Northeastern University in 2015, supervised by Prof [Tianyou Chai](https://english.neu.edu.cn/info/1040/2072.htm) (IEEE Life Fellow, IFAC Fellow), Prof [Hong Wang](https://www.ornl.gov/staff-profile/dr-hong-wang) (IEEE Fellow) and Prof Ping Zhou.
 
-I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowship ([MSCA-PF](https://research.chalmers.se/en/project/11168)) in 2023, hosted by A/Prof [Changfu Zou](https://sites.google.com/view/changfu) at Chalmers.
+I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowship ([MSCA-PF](https://research.chalmers.se/en/project/11168)) in 2023, hosted by Prof [Changfu Zou](https://sites.google.com/view/changfu) at Chalmers.
 
 I welcome inquiries and collaboration on my research. Please feel free to contact me via: 
 
