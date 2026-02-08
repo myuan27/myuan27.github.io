@@ -22,7 +22,7 @@ Preprints and Submissions
 Journal Papers
 --------------
 1. **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://arxiv.org/abs/2404.05404), *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2026 (accepted)
-2. Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, [Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries](https://arxiv.org/abs/2506.06824), *Applied Energy*, 2026 (accepted)
+2. Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, [Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries](https://authors.elsevier.com/a/1mZeM15eifJhe5), *Applied Energy*, 2026 (accepted)
 3. **Meng Yuan**, Changfu Zou, [Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries](https://ieeexplore.ieee.org/document/11217267), *IEEE Transactions on Transportation Electrification*, 2025.
 4. **Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu, [Short-term load forecasting for an industrial building based on diverse load patterns](https://www.sciencedirect.com/science/article/pii/S0360544225031238), *Energy*, 2025.
 5. Ruobin Gao, Sibo Yang, **Meng Yuan**, Zicheng Wang, Maohan Liang, Ponnuthurai Nagaratnam Suganthan, Kum Fai Yuen, [A Dynamic Ensemble Deep Randomized Neural Network Using Deep Autoregressive Features for Wave Height Forecasting With Missing Values](https://ieeexplore.ieee.org/abstract/document/11131328), *IEEE Journal of Oceanic Engineering*, 2025.
