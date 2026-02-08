@@ -24,8 +24,7 @@ News and Updates
 ----------------
 * **2026.01** Our paper "Contouring Error Bounded Control for Biaxial Switched Linear Systems" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
 
-
-* **2026.01** Our paper "Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries" has been accepted by *Applied Energy*.
+* **2026.01** Our paper "Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries" has been accepted by *Applied Energy*. A 50-day free access link is available [here](https://authors.elsevier.com/a/1mZeM15eifJhe5).
 
 * **2025.10** Our paper "Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries" has been accepted by *IEEE Transactions on Transportation Electrification*.
 
