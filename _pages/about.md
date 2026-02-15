@@ -22,7 +22,7 @@ Email: meng.yuan [at] ieee.org
 
 News and Updates
 ----------------
-* **2026.01** Our paper "Contouring Error Bounded Control for Biaxial Switched Linear Systems" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
+* **2026.01** Our paper "[Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://ieeexplore.ieee.org/document/11396470)" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
 
 * **2026.01** Our paper "Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries" has been accepted by *Applied Energy*. A 50-day free access link is available [here](https://authors.elsevier.com/a/1mZeM15eifJhe5).
 
