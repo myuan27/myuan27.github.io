@@ -17,7 +17,8 @@ I am a recipient of the EU Marie Skłodowska-Curie Action Postdoctoral Fellowshi
 
 I welcome inquiries and collaboration on my research. Please feel free to contact me via: 
 
-Email: meng.yuan [at] ieee.org
+
+Email: meng.yuan@vuw.ac.nz, meng.yuan [at] ieee.org
 
 
 News and Updates
