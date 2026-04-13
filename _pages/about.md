@@ -23,7 +23,8 @@ Email: [meng.yuan@vuw.ac.nz](mailto:meng.yuan@vuw.ac.nz), [meng.yuan@ieee.org](m
 
 PhD Opportunities
 -----------------
-**I am actively recruiting motivated PhD students and visiting scholars.** If you are interested in joining my research group, please feel free to reach out via email with your CV, transcript, and a brief statement of research interests.
+
+**I am actively recruiting motivated PhD students and am always open to hosting visiting scholars.** If you are interested in joining my research group, please feel free to reach out via email with your CV, a brief statement of research interests, and academic transcripts (for prospective PhD students).
 
 Prospective students are encouraged to explore the following funding opportunities:
 
