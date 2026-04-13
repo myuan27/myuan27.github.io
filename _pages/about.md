@@ -28,7 +28,9 @@ PhD Opportunities
 
 Prospective students are encouraged to explore the following funding opportunities:
 
-* **[VUW Scholarships](https://www.wgtn.ac.nz/fgr/apply/funding)**: Applicants with a strong academic record will be automatically considered for the Wellington Doctoral Scholarship, while details of further funding opportunities are available on the university website. *(Closing dates each year: 1 March, 1 July, 1 November for both domestic and international students)*
+* **[VUW Scholarships](https://www.wgtn.ac.nz/fgr/apply/funding)**: Applicants with a strong academic record will be automatically considered for the Wellington Doctoral Scholarship, while details of further funding opportunities are available on the university website. 
+
+*(Closing dates each year: 1 March, 1 July, 1 November for both domestic and international students)*
 
 * **[CSC-VUW Joint PhD Scholarships](https://www.wgtn.ac.nz/scholarships/current/china-scholarships-council-csc-victoria-university-scholarship-scheme)** *(Chinese students only)*: Details can be found on this university scholarships [website](https://www.wgtn.ac.nz/ci/scholarships-and-competitions/nz-china-scholarships) as well.
 
