@@ -21,6 +21,17 @@ I welcome inquiries and collaboration on my research. Please feel free to contac
 Email: [meng.yuan@vuw.ac.nz](mailto:meng.yuan@vuw.ac.nz), [meng.yuan@ieee.org](mailto:meng.yuan@ieee.org)
 
 
+PhD Opportunities
+-----------------
+**I am actively recruiting motivated PhD students and visiting scholars.** If you are interested in joining my research group, please feel free to reach out via email with your CV, transcript, and a brief statement of research interests.
+
+Prospective students are encouraged to explore the following funding opportunities:
+
+* **[VUW Scholarships](https://www.wgtn.ac.nz/fgr/apply/funding)**: Applicants with a strong academic record will be automatically considered for the Wellington Doctoral Scholarship, while details of further funding opportunities are available on the university website. *(Closing dates each year: 1 March, 1 July, 1 November for both domestic and international students)*
+
+* **[CSC-VUW Joint PhD Scholarships](https://www.wgtn.ac.nz/scholarships/current/china-scholarships-council-csc-victoria-university-scholarship-scheme)** *(Chinese students only)*: Details can be found on the university scholarships website.
+
+
 News and Updates
 ----------------
 * **2026.01** Our paper "[Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://ieeexplore.ieee.org/document/11396470)" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
