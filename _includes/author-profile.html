@@ -28,7 +28,7 @@
         <li><i class="fa-solid fa-location-dot" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-solid fa-building-columns" aria-hidden="true"></i> {% if author.uri %}<a href="{{ author.uri }}">{{ author.employer }}</a>{% else %}{{ author.employer }}{% endif %}</li>
+        <li><i class="fa fa-solid fa-building-columns" aria-hidden="true"></i> {% if author.uri %}<a href="{{ author.uri }}" style="display: inline;">{{ author.employer }}</a>{% else %}{{ author.employer }}{% endif %}</li>
       {% endif %}
       {% if author.uri %}
       {% endif %}
