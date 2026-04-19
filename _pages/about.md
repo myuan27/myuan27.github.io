@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Lecturer (Assistant Professor) with the School of Engineering and Computer Science at Victoria University of Wellington, New Zealand.
+I am currently a Lecturer (Assistant Professor) with the School of Engineering and Computer Science at Victoria University of Wellington, New Zealand. I am an IEEE Senior Member.
 
 Previously, I was a Marie Skłodowska-Curie Fellow and Researcher with the Automatic Control research group in the [Division of Systems and Control](https://www.chalmers.se/en/departments/e2/research/systems-and-control/), Department of Electrical Engineering at Chalmers University of Technology, Gothenburg, Sweden.
 
