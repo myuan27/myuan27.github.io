@@ -34,6 +34,8 @@ Prospective students are encouraged to explore the following funding opportuniti
 
 * **[CSC-VUW Joint PhD Scholarships](https://www.wgtn.ac.nz/scholarships/current/china-scholarships-council-csc-victoria-university-scholarship-scheme)** *(Chinese students only)*: Details can be found on this university scholarships [website](https://www.wgtn.ac.nz/ci/scholarships-and-competitions/nz-china-scholarships) as well.
 
+* **[Postgraduate Research Grants support from ECS](https://ecs.wgtn.ac.nz/Main/PostgraduateStudentSupport)**: You may also apply for Grants support from our school. 
+
 
 News and Updates
 ----------------
