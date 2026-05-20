@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Meng Yuan (袁蒙), Ph.D."
+title: "Meng Yuan, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
