@@ -39,6 +39,8 @@ Prospective students are encouraged to explore the following funding opportuniti
 
 News and Updates
 ----------------
+* **2026.07** Our paper "[Contouring Error Bounded Control for Biaxial Systems With Structural Flexibility and Input Delay](https://ieeexplore.ieee.org/document/11611918)" has been accepted by *IEEE Transactions on Industrial Electronics*.
+
 * **2026.01** Our paper "[Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://ieeexplore.ieee.org/document/11396470)" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
 
 * **2026.01** Our paper "Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries" has been accepted by *Applied Energy*. 
