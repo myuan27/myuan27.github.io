@@ -43,11 +43,13 @@ News and Updates
 
 * **2026.07** Our paper "[Contouring Error Bounded Control for Biaxial Systems With Structural Flexibility and Input Delay](https://ieeexplore.ieee.org/document/11611918)" has been accepted by *IEEE Transactions on Industrial Electronics*.
 
+* **2026.06** Our work on lifelong health-aware reinforcement learning for lithium-ion battery fast charging has received broad media coverage, including features by [Chalmers University of Technology](https://www.chalmers.se/en/current/news/e2-ai-extends-ev-battery-lifetime-by-nearly-23-percent-without-increasing-charging-time/) and [IEEE Spectrum](https://spectrum.ieee.org/ev-charging-strategy), highlighting its potential to extend battery lifetime by nearly 23% without increasing charging time.
+
 * **2026.01** Our paper "[Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://ieeexplore.ieee.org/document/11396470)" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
 
 * **2026.01** Our paper "[Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries](https://www.sciencedirect.com/science/article/pii/S0306261926001157)" has been accepted by *Applied Energy*. 
 
-* **2025.10** Our paper "Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries" has been accepted by *IEEE Transactions on Transportation Electrification*.
+* **2025.10** Our paper "[Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries](https://ieeexplore.ieee.org/document/11217267)" has been accepted by *IEEE Transactions on Transportation Electrification*.
 
 * **2025.06** I will be presenting research on battery safety and recycling at the Swedish Control Conference (Reglermötet 2025) in Lund, Sweden. Excited to discuss sustainable energy applications in control systems.
 
