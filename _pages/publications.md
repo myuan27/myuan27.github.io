@@ -19,7 +19,7 @@ Preprints and Submissions
 Journal Papers
 --------------
 
-1. **Meng Yuan**, Ye Wang, Xinghuo Yu, Torsten Wik, Changfu Zou, [Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour](https://arxiv.org/abs/2602.04578), *IEEE Transactions on Sustainable Energy*, 2026 (accepted)
+1. **Meng Yuan**, Ye Wang, Xinghuo Yu, Torsten Wik, Changfu Zou, [Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour](https://ieeexplore.ieee.org/document/11641052), *IEEE Transactions on Sustainable Energy*, 2026
 2. **Meng Yuan**, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay](https://ieeexplore.ieee.org/document/11611918), *IEEE Transactions on Industrial Electronics*, 2026
 3. **Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai, [Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://ieeexplore.ieee.org/document/11396470), *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 2026 
 4. Chi Liu, Zhezhuang Xu, Jiawei Zhou, Yanzhou Yuan, Kai Ma, **Meng Yuan**\*, [Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries](https://www.sciencedirect.com/science/article/pii/S0306261926001157), *Applied Energy*, 2026
