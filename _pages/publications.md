@@ -13,7 +13,7 @@ Preprints and Submissions
 
 
 
-* **Meng Yuan**, Yang Li, Changfu Zou, Reinforcement learning for battery fast charging with state of health and plating-aware reward design, *IEEE Transactions on Transportation Electrification*, 2025 (under review)
+* **Meng Yuan**, Yang Li, Changfu Zou, [Filter-Augmented Reinforcement Learning for Battery Fast Charging with State of Health and Plating-Aware Reward Design](https://arxiv.org/abs/2610.22787), *arXiv preprint*, 2026 (under review)
 
 
 Journal Papers
