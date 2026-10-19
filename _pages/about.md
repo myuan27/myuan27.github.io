@@ -39,6 +39,8 @@ Prospective students are encouraged to explore the following funding opportuniti
 
 News and Updates
 ----------------
+* **2026.11** I will attend the Australasian Joint Conference on Artificial Intelligence (AJCAI 2026) in Auckland, New Zealand, from 28 to 30 November and give a **New Faculty Highlights** talk. I hope to see you there. Please come along!
+
 * **2026.07** Our paper, “[Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour](https://ieeexplore.ieee.org/document/11641052),” has been accepted for publication in *IEEE Transactions on Sustainable Energy*. Congratulations to all co-authors!
 
 * **2026.07** Our paper "[Contouring Error Bounded Control for Biaxial Systems With Structural Flexibility and Input Delay](https://ieeexplore.ieee.org/document/11611918)" has been accepted by *IEEE Transactions on Industrial Electronics*.
