@@ -12,6 +12,7 @@ Preprints and Submissions
 ---------
 
 
+* **Meng Yuan**, Ye Wang, Yi Mei, Ramesh Rayudu, Alan Brent, Xinghuo Yu, Mengjie Zhang, [Distributionally Robust Chance-Constrained Reinforcement Learning for Home Energy Management under Electric Vehicle Uncertainty](https://arxiv.org/abs/2610.25151), *arXiv preprint*, 2026 (under review)
 
 * **Meng Yuan**, Yang Li, Changfu Zou, [Filter-Augmented Reinforcement Learning for Battery Fast Charging with State of Health and Plating-Aware Reward Design](https://arxiv.org/abs/2610.22787), *arXiv preprint*, 2026 (under review)
 
