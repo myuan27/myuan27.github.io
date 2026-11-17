@@ -41,9 +41,7 @@ News and Updates
 ----------------
 * **2026.11** I will attend the [Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)](https://ajcai26.org/) in Auckland, New Zealand, from 27 to 30 November and give a **New Faculty Highlights Presentation**. I hope to see you there!
 
-
 * **2026.11** I will give a research talk and participate in a panel discussion on “If AI can do research, what are scholars for?” at the [Artificial Intelligence Researchers Association conference](https://www.ainz.ai/) on 23–24 November.
-
 
 * **2026.07** Our paper, “[Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour](https://ieeexplore.ieee.org/document/11641052),” has been accepted for publication in *IEEE Transactions on Sustainable Energy*. Congratulations to all co-authors!
 
