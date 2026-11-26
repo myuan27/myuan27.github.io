@@ -58,6 +58,7 @@
       venue: "IEEE Journal of Oceanic Engineering"
       year: 2025
       url: "https://ieeexplore.ieee.org/abstract/document/11131328"
+      pdf_url: "https://ndownloader.figshare.com/files/71900608"
     - title: "A multi-task network for occluded meter reading with synthetic data generation technology"
       authors: "Ye Lin, Zhezhuang Xu, Yiying Wu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan"
       venue: "Advanced Engineering Informatics"
@@ -69,23 +70,27 @@
       venue: "Applied Energy"
       year: 2024
       url: "https://www.sciencedirect.com/science/article/abs/pii/S0306261924023432"
+      pdf_url: "https://ndownloader.figshare.com/files/71900596"
     - title: "Pointer generation and main scale detection for occluded meter reading based on generative adversarial network"
       authors: "Ye Lin, Zhezhuang Xu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan"
       venue: "Measurement"
       year: 2024
       url: "https://www.sciencedirect.com/science/article/pii/S0263224124007218"
+      pdf_url: "https://ndownloader.figshare.com/files/71900617"
     - title: "Joint Optimization of Steel Plate Shuffling and Truck Loading Sequencing Based on Deep Reinforcement Learning"
       authors: "Zhezhuang Xu, Jinlong Wang, **Meng Yuan**\\*, Yazhou Yuan, Biyu Chen, Qingdong Zhang, Cailian Chen, Xinping Guan"
       venue: "Advanced Engineering Informatics"
       year: 2024
       url: "https://www.sciencedirect.com/science/article/pii/S1474034624000405"
       details: "vol.60"
+      pdf_url: "https://ndownloader.figshare.com/files/71900623"
     - title: "Wood Broken Defect Detection with Laser Profilometer Based on Bi-lstm Network"
       authors: "Zhezhuang Xu, Ye Lin, Dan Chen, **Meng Yuan**, Yuhang Zhu, Zhijie Ai, Yazhou Yuan"
       venue: "Expert Systems with Applications"
       year: 2024
       url: "https://www.sciencedirect.com/science/article/pii/S0957417423032918"
       details: "vol. 242"
+      pdf_url: "https://ndownloader.figshare.com/files/71900656"
     - title: "Safety-based Speed Control of a Wheelchair using Robust Adaptive Model Predictive Control"
       authors: "**Meng Yuan**\\*, Ye Wang, Lei Li, Tianyou Chai, Wei Tech Ang"
       venue: "IEEE Transactions on Cybernetics"
