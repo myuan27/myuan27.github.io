@@ -8,7 +8,9 @@
 
 ## human-robot-collaboration.jpg
 
-- Source page: https://www.romilab.org/robots/unitree_b1_z1
-- Published image: https://www.romilab.org/images/robots/b1_z1_robot.jpeg
-- The published photograph is copied without alteration and credited beside the image.
+- Subject and image credit: Boston Dynamics Spot with its robotic arm.
+- Source page: https://www.yankodesign.com/2021/02/02/boston-dynamics-spot-gets-an-ultra-nimble-robotic-arm-extension-making-him-the-perfect-pet-and-companion/
+- Published image: https://www.yankodesign.com/images/design_news/2021/02/spot-robot-gets-ultra-nimble-with-dexterous-arm-extension-time-enough-to-ditch-your-maid/Boston-Dynamics-Spot-Robot-new.jpg
+- Original resolution: 1050 × 700 pixels.
+- The published JPEG is copied without alteration and credited beside the image.
 - This photograph illustrates an example quadruped-manipulator platform for the research theme.
