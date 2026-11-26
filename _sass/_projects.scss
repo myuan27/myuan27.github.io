@@ -32,6 +32,88 @@
   font-size: 1.3rem;
 }
 
+.current-research-intro {
+  margin-bottom: 1.2rem;
+  font-size: 0.9rem;
+}
+
+.current-research-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.2rem;
+}
+
+.current-research-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 1.2rem;
+  border: 1px solid var(--project-border);
+  border-radius: 10px;
+  background: #fff;
+  scroll-margin-top: 5rem;
+}
+
+.current-research-card h3 {
+  margin: 0 0 1rem;
+  color: #173c2f;
+  font-size: 1.05rem;
+  line-height: 1.4;
+}
+
+.current-research-figure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 190px;
+  margin: 0 0 1rem;
+}
+
+.current-research-figure img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.current-research-card p,
+.current-research-topics {
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.current-research-topics {
+  padding-left: 1.1rem;
+  margin: 0 0 1.1rem;
+}
+
+.current-research-topics li { margin-bottom: 0.4rem; }
+
+.current-research-card .current-research-methods {
+  margin: auto 0 0;
+  padding-top: 0.8rem;
+  border-top: 1px solid #e9ecef;
+  color: #52616a;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.current-research-card .current-research-credit {
+  margin: 0.65rem 0 0;
+  color: #69747c;
+  font-size: 0.65rem;
+}
+
+.current-research-opportunities {
+  margin: 1rem 0 1.8rem;
+  font-size: 0.85rem;
+}
+
+@media (max-width: 900px) {
+  .current-research-grid { grid-template-columns: 1fr; }
+}
+
 .research-project-card {
   margin: 0 0 2.3rem;
   padding: 1.5rem;

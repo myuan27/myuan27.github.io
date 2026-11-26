@@ -6,13 +6,48 @@ author_profile: true
 ---
 
 <div class="research-projects">
-<nav class="project-jump-links" aria-label="Research projects">
-  <a href="#energy-management">Energy management</a>
-  <a href="#motion-control">Motion control</a>
-  <a href="#assistive-robotics">Assistive robotics</a>
+<nav class="project-jump-links" aria-label="Research areas and projects">
+  <a href="#energy-research">Energy management</a>
+  <a href="#human-robot-research">Human-robot collaborations</a>
+  <a href="#finished-projects">Finished projects</a>
 </nav>
 
-<h2 class="project-section-title">Ongoing Projects</h2>
+<section class="current-research" aria-labelledby="ongoing-research">
+  <h2 class="project-section-title" id="ongoing-research">Ongoing Research</h2>
+  <p class="current-research-intro">My current research combines learning and control for sustainable energy systems and human-robot collaborations. Prospective students can explore the research topics below.</p>
+  <div class="current-research-grid">
+    <article class="current-research-card" id="energy-research" aria-labelledby="energy-research-title">
+      <h3 id="energy-research-title">Energy management</h3>
+      <figure class="current-research-figure">
+        <img src="../images/research-themes/energy-management.jpg" alt="Solar generation, home and electric-vehicle batteries coordinated by reinforcement learning" width="1556" height="1011" decoding="async">
+      </figure>
+      <p>Reinforcement learning and predictive control for sustainable energy systems, spanning battery charging, energy storage, electric vehicles and intelligent energy management.</p>
+      <ul class="current-research-topics">
+        <li>Health-aware and safe battery charging</li>
+        <li>Coordinated control of EV and stationary batteries</li>
+        <li>Learning-based energy scheduling for buildings</li>
+      </ul>
+      <p class="current-research-methods">Reinforcement learning · Predictive control · Battery health</p>
+    </article>
+    <article class="current-research-card" id="human-robot-research" aria-labelledby="human-robot-research-title">
+      <h3 id="human-robot-research-title">Human-robot collaborations</h3>
+      <figure class="current-research-figure">
+        <img src="../images/research-themes/human-robot-collaboration.jpg" alt="A quadruped robot equipped with a robotic arm, shown as an example research platform" width="2892" height="2789" decoding="async">
+      </figure>
+      <p>Learning and control for robots that work safely and effectively with people, including quadruped robots equipped with manipulators and physical human-robot interaction.</p>
+      <ul class="current-research-topics">
+        <li>Human intention and interaction-aware control</li>
+        <li>Motion planning and control for legged manipulation</li>
+        <li>Safe and responsive human-robot collaboration</li>
+      </ul>
+      <p class="current-research-methods">Human-robot interaction · Learning-based control · Motion planning</p>
+      <p class="current-research-credit">Example platform photo: <a href="https://www.romilab.org/robots/unitree_b1_z1">RoMI Lab</a>.</p>
+    </article>
+  </div>
+  <p class="current-research-opportunities">Interested in these topics? See <a href="../#phd-opportunities">PhD opportunities</a> or <a href="mailto:meng.yuan@vuw.ac.nz">get in touch</a>.</p>
+</section>
+
+<h2 class="project-section-title" id="finished-projects">Finished Projects</h2>
 <article class="research-project-card" id="energy-management" aria-labelledby="energy-title">
   <header class="project-card-header">
     <div class="project-card-heading">
@@ -28,10 +63,9 @@ author_profile: true
   <figure class="project-overview">
     <img src="../images/smarthem-system-figure1.png" alt="Smart home energy management system with photovoltaic generation, HVAC, stationary storage and an electric vehicle" width="2000" height="1184" loading="lazy">
   </figure>
-  <p>To achieve carbon neutrality and reduce dependence on fossil energy, solar panels, heat pumps and electric vehicles (EVs) are becoming commonplace in European homes. The abundant solar power, geothermal energy, as well as environmentally friendly electric vehicles, reduce the usage of fossil-based energy, while posing challenges to the home energy management system at the same time due to the intermittent feature of renewable energy and potential battery degradation from EVs. This Marie Skłodowska-Curie Postdoctoral Fellowship will propose a smart home management system to optimise the entire home energy cost while considering a set of constraints related to battery safety and reliability, driver/household demand, and actuator.</p>
+  <p>To achieve carbon neutrality and reduce dependence on fossil energy, solar panels, heat pumps and electric vehicles (EVs) are becoming commonplace in European homes. The abundant solar power, geothermal energy, as well as environmentally friendly electric vehicles, reduce the usage of fossil-based energy, while posing challenges to the home energy management system at the same time due to the intermittent feature of renewable energy and potential battery degradation from EVs. The fellowship investigated smart home energy management to optimise household energy costs while accounting for battery safety and reliability, household and driver demand, and actuator limits.</p>
 </article>
 
-<h2 class="project-section-title">Finished Projects</h2>
 <article class="research-project-card" id="motion-control" aria-labelledby="motion-title">
   <header class="project-card-header">
     <div class="project-card-heading">
