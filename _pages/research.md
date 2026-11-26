@@ -88,7 +88,6 @@ author_profile: true
       <img class="logo-ntu" src="../images/project-logos/ntu.png" alt="Nanyang Technological University" width="320" height="320" loading="lazy">
       <a class="project-collaboration" href="https://fht.ethz.ch/">
         <img class="logo-eth" src="../images/project-logos/eth-zurich.svg" alt="ETH Zurich" width="120" height="20" loading="lazy">
-        <span>Upper-limb research collaboration</span>
       </a>
     </div>
   </header>
