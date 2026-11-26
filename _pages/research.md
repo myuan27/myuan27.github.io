@@ -40,7 +40,7 @@ To achieve carbon neutrality and reduce dependence on fossil energy, solar panel
     <source src="../assets/videos/motion-control-sinusoidal-mobile.mp4" type="video/mp4">
     <a href="../assets/videos/motion-control-sinusoidal.mp4">Download the sinusoidal tracking comparison video.</a>
   </video>
-  <figcaption style="margin-top: 0.65rem; color: #586477; font-size: 0.85rem; line-height: 1.5;">Sinusoidal tracking on the LinX® test bench. The clips are aligned to the first visible carriage motion and played at their original speed.</figcaption>
+  <figcaption style="margin-top: 0.65rem; color: #586477; font-size: 0.85rem; line-height: 1.5;">Sinusoidal tracking experiment on the LinX® test bench, reported in <a href="https://doi.org/10.1109/TIE.2019.2949521">IEEE TIE, 2020</a>. The clips are aligned to the first visible carriage motion and played at their original speed.</figcaption>
 </figure>
 
 This project develops error-bounded tracking and contouring control for industrial machines with structural flexibility. The experimental comparison shows the proposed model predictive controller and a cascaded PI controller with a notch filter on an ANCA Motion LinX® linear-motor test bench.
