@@ -22,11 +22,13 @@
       venue: "IEEE Transactions on Sustainable Energy"
       year: 2026
       url: "https://ieeexplore.ieee.org/document/11641052"
+      pdf_url: "https://ndownloader.figshare.com/files/71899858"
     - title: "Contouring Error Bounded Control for Biaxial Systems with Structural Flexibility and Input Delay"
       authors: "**Meng Yuan**, Tianyou Chai"
       venue: "IEEE Transactions on Industrial Electronics"
       year: 2026
       url: "https://ieeexplore.ieee.org/document/11611918"
+      pdf_url: "https://ndownloader.figshare.com/files/71899936"
     - title: "Contouring Error-Bounded Control for Biaxial Switched Linear Systems"
       authors: "**Meng Yuan**, Ye Wang, Chris Manzie, Zhezhuang Xu, Tianyou Chai"
       venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems"
@@ -43,6 +45,7 @@
       venue: "IEEE Transactions on Transportation Electrification"
       year: 2025
       url: "https://ieeexplore.ieee.org/document/11217267"
+      pdf_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11217267&tag=1"
     - title: "Short-term load forecasting for an industrial building based on diverse load patterns"
       authors: "**Meng Yuan**, Junwei Xie, Chi Liu, Zhezhuang Xu"
       venue: "Energy"
