@@ -47,10 +47,6 @@ Tutor and Demonstrator
 * MCEN9001 - Advanced Motion Control, University of Melbourne, 2019
 * MCEN90032 - Sensor Systems, University of Melbourne, 2019
 
-## Supervision
-
-Student supervision and research mentoring are listed on the [Teams]({{ base_path }}/teams/) page.
-
 ## Journal Reviewing
 
 * IEEE Transactions on Industrial Electronics
