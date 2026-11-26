@@ -103,24 +103,28 @@
       year: 2023
       url: "https://www.mdpi.com/1424-8220/23/6/2998"
       details: "vol. 23, no. 6, pp. 2998"
+      pdf_url: "https://www.mdpi.com/1424-8220/23/6/2998/pdf"
     - title: "A Modified Prandtl–Ishlinskii Hysteresis Model for Modeling and Compensating Asymmetric Hysteresis of Piezo-Actuated Flexure-Based Systems"
       authors: "Chao Zhou, **Meng Yuan**, Chen Feng, Wei Tech Ang"
       venue: "Sensors"
       year: 2022
       url: "https://www.mdpi.com/1424-8220/22/22/8763"
       details: "vol. 22, no. 22, pp. 8763"
+      pdf_url: "https://www.mdpi.com/1424-8220/22/22/8763/pdf"
     - title: "Modeling and Contouring Control for Cantilever Beam Machine With Structural Flexibility"
       authors: "**Meng Yuan**\\*, Lei Li, Zhezhuang Xu"
       venue: "IEEE Access"
       year: 2022
       url: "https://ieeexplore.ieee.org/abstract/document/9730923/"
       details: "pp. 27809-27818"
+      pdf_url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9730923"
     - title: "Tracking Control of Single-Axis Feed Drives Based on ADRC and Feedback Linearisation"
       authors: "**Meng Yuan**\\*, Zhezhuang Xu"
       venue: "Electronics"
       year: 2021
       url: "https://www.mdpi.com/2079-9292/10/10/1184"
       details: "vol. 10, no. 10"
+      pdf_url: "https://www.mdpi.com/2079-9292/10/10/1184/pdf"
     - title: "A Review of Industrial Tracking Control Algorithms"
       authors: "**Meng Yuan**\\*, Chris Manzie, Malcolm Good, Iman Shames, Lu Gan, Farzad Keynejad, Troy Robinette"
       venue: "Control Engineering Practice"
