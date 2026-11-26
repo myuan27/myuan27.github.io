@@ -26,6 +26,12 @@ PhD Opportunities
 
 **I am actively recruiting motivated PhD students and am always open to hosting visiting scholars.** If you are interested in joining my research group, please feel free to reach out via email with your CV, a brief statement of research interests, and academic transcripts (for prospective PhD students).
 
+**Application update (November 2026)**
+
+The November 2026 PhD application round has closed. Applications for the **March 2027** round are now open.
+
+Prospective students seeking **China Scholarship Council (CSC) funding** for a 2027 PhD start are welcome to contact me by **1 February 2027**.
+
 **[Apply here](https://www.wgtn.ac.nz/fgr/apply)** to begin your PhD application at Victoria University of Wellington.
 
 Prospective students are encouraged to explore the following funding opportunities:
