@@ -27,7 +27,7 @@ author_profile: true
         <img src="../images/research-themes/human-robot-collaboration.jpg" alt="Boston Dynamics Spot using its mounted robotic arm to pick up a cup" width="240" height="160" decoding="async">
       </figure>
       <p>Safe learning, motion planning and control for quadruped manipulators and physical human-robot collaboration.</p>
-      <p class="current-research-credit">Image: Boston Dynamics · <a href="https://www.yankodesign.com/2021/02/02/boston-dynamics-spot-gets-an-ultra-nimble-robotic-arm-extension-making-him-the-perfect-pet-and-companion/">Yanko Design</a></p>
+      <p class="current-research-credit">Image: <a href="https://bostondynamics.com/">Boston Dynamics</a></p>
     </article>
   </div>
   <p class="current-research-opportunities">Interested in these topics? See <a href="../#phd-opportunities">PhD opportunities</a> or <a href="mailto:meng.yuan@vuw.ac.nz">get in touch</a>.</p>
