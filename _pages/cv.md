@@ -90,12 +90,20 @@ Tutor and Demonstrator
 
 [//]: # (* Will be joining Cambridge University in Sep 2024 for MPhil)
 
-## Journal reviewer
+## Journal Reviewing
 
-* IEEE Trans. on Control System Technology
-* IEEE Trans. on Industrial Electronics
-* IEEE Trans. on Industrial Informatics
-* IEEE Trans. on Intelligent Transportation Systems
+* IEEE Transactions on Industrial Electronics
+* IEEE Transactions on Power Electronics
+* IEEE Transactions on Control Systems Technology
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Transportation Electrification
+* IEEE Transactions on Cybernetics
+* IEEE Transactions on Systems, Man, and Cybernetics: Systems
+* IEEE Transactions on Automation Science and Engineering
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE/CAA Journal of Automatica Sinica
+* Applied Energy
+* Energy
 * Control Engineering Practice
+* Mechatronics
 * International Journal of Control
-* Mechatronics et al.
