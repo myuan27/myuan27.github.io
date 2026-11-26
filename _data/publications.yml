@@ -184,7 +184,7 @@
       pdf_url: "https://openaccess.wgtn.ac.nz/ndownloader/files/71901979"
     - title: "Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks"
       authors: "Hanlin Cai, Yuchen Fang, Jiacheng Huang, **Meng Yuan**, Zhezhuang Xu"
-      venue: "22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys)"
+      venue: "ACM MobiSys"
       year: 2024
       url: "https://dl.acm.org/doi/10.1145/3643832.3661434"
       details: "Tokyo, Japan, pp. 710-711"
@@ -230,3 +230,11 @@
       year: 2014
       url: "https://link.springer.com/chapter/10.1007/978-3-319-14066-7_26"
       details: "Singapore"
+      pdf_url: "https://openaccess.wgtn.ac.nz/ndownloader/files/71902330"
+    - title: "Intelligent Dynamic Modeling for Online Estimation of Burning Zone Temperature in Cement Rotary Kiln"
+      authors: "Ping Zhou, **Meng Yuan**"
+      venue: "11th World Congress on Intelligent Control and Automation (WCICA)"
+      year: 2014
+      url: "https://doi.org/10.1109/WCICA.2014.7053777"
+      details: "Shenyang, China, pp. 6167-6171"
+      pdf_url: "https://openaccess.wgtn.ac.nz/ndownloader/files/71902282"
