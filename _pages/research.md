@@ -17,14 +17,14 @@ author_profile: true
     <article class="current-research-card" id="energy-research" aria-labelledby="energy-research-title">
       <h3 id="energy-research-title">Energy management</h3>
       <figure class="current-research-figure">
-        <img src="../images/research-themes/energy-management.jpg" alt="Solar generation, home and electric-vehicle batteries coordinated by reinforcement learning" width="169" height="110" decoding="async">
+        <img src="../images/research-themes/energy-management.jpg" alt="Solar generation, home and electric-vehicle batteries coordinated by reinforcement learning" width="246" height="160" decoding="async">
       </figure>
       <p>Reinforcement learning and predictive control for battery charging, energy storage, electric vehicles and building energy management.</p>
     </article>
     <article class="current-research-card" id="human-robot-research" aria-labelledby="human-robot-research-title">
       <h3 id="human-robot-research-title">Human-robot collaborations</h3>
       <figure class="current-research-figure">
-        <img src="../images/research-themes/human-robot-collaboration.jpg" alt="Boston Dynamics Spot using its mounted robotic arm to pick up a cup" width="165" height="110" decoding="async">
+        <img src="../images/research-themes/human-robot-collaboration.jpg" alt="Boston Dynamics Spot using its mounted robotic arm to pick up a cup" width="240" height="160" decoding="async">
       </figure>
       <p>Safe learning, motion planning and control for quadruped manipulators and physical human-robot collaboration.</p>
       <p class="current-research-credit">Image: Boston Dynamics · <a href="https://www.yankodesign.com/2021/02/02/boston-dynamics-spot-gets-an-ultra-nimble-robotic-arm-extension-making-him-the-perfect-pet-and-companion/">Yanko Design</a></p>
