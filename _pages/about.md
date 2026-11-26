@@ -39,36 +39,5 @@ Prospective students are encouraged to explore the following funding opportuniti
 
 News and Updates
 ----------------
-* **2026.11** Our paper "[Filter-Augmented Reinforcement Learning for Battery Fast Charging with State of Health and Plating-Aware Reward Design](https://arxiv.org/abs/2610.22787)" has been accepted for publication in *IEEE Transactions on Transportation Electrification*. Congratulations to all co-authors!
 
-* **2026.11** I will attend the [Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)](https://ajcai26.org/) in Auckland, New Zealand, from 27 to 30 November and give a **New Faculty Highlights Presentation**. I hope to see you there!
-
-* **2026.11** I will give a research talk and participate in a panel discussion on “If AI can do research, what are scholars for?” at the [Artificial Intelligence Researchers Association conference](https://www.ainz.ai/) in Dunedin, New Zealand, on 23–24 November.
-
-* **2026.07** Our paper, “[Reinforcement Learning-based Home Energy Management with Heterogeneous Batteries and Stochastic EV Behaviour](https://ieeexplore.ieee.org/document/11641052),” has been accepted for publication in *IEEE Transactions on Sustainable Energy*. Congratulations to all co-authors!
-
-* **2026.07** Our paper "[Contouring Error Bounded Control for Biaxial Systems With Structural Flexibility and Input Delay](https://ieeexplore.ieee.org/document/11611918)" has been accepted by *IEEE Transactions on Industrial Electronics*.
-
-* **2026.06** Our work on lifelong health-aware reinforcement learning for lithium-ion battery fast charging has received broad media coverage, including features by [Chalmers University of Technology](https://www.chalmers.se/en/current/news/e2-ai-extends-ev-battery-lifetime-by-nearly-23-percent-without-increasing-charging-time/) and [IEEE Spectrum](https://spectrum.ieee.org/ev-charging-strategy), highlighting its potential to extend battery lifetime by nearly 23% without increasing charging time.
-
-* **2026.01** Our paper "[Contouring Error Bounded Control for Biaxial Switched Linear Systems](https://ieeexplore.ieee.org/document/11396470)" has been accepted by *IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
-
-* **2026.01** Our paper "[Deep reinforcement learning-based energy scheduling for green buildings with heterogeneous stationary and EV batteries](https://www.sciencedirect.com/science/article/pii/S0306261926001157)" has been accepted by *Applied Energy*. 
-
-* **2025.10** Our paper "[Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries](https://ieeexplore.ieee.org/document/11217267)" has been accepted by *IEEE Transactions on Transportation Electrification*.
-
-* **2025.06** I will be presenting research on battery safety and recycling at the Swedish Control Conference (Reglermötet 2025) in Lund, Sweden. Excited to discuss sustainable energy applications in control systems.
-
-* **2025.03** Our paper "Robust Model Predictive Control for Fast Discharging of Retired Lithium-ion Battery Cells" has been accepted by *European Control Conference (ECC)*. I am looking forward to engaging with fellow researchers in Greece this June.
-
-* **2024.11** Our paper "Building electrical load forecasting with occupancy data based on wireless sensing" has been accepted by *Applied Energy*, proposing a novel approach to predicting building load using occupancy data.
-
-* **2024.10** Our paper "Occluded meter reading with pointer mask generation based on generative adversarial network" has been accepted by *IEEE Transactions on Instrumentation & Measurement*.
-
-* **2024.09** Conference paper by Master's student Junwei Xie, "Short-term load forecasting for buildings based on a dynamic weighted edRVFL model" has been accepted for the China Automation Congress (CAC 2025).
-
-* **2024.07** Our paper "Pointer generation and main scale detection for occluded meter reading based on generative adversarial network" has been accepted to *Measurement*.
-
-* **2024.05** Our paper "Wood broken defect detection with laser profilometer based on bi-lstm network" has been accepted to *Expert Systems with Applications*.
-
-* **2024.01** Our paper "Joint optimization of steel plate shuffling and truck loading sequencing based on deep reinforcement learning" has been accepted to *Advanced Engineering Informatics*.
+{% include news.html %}

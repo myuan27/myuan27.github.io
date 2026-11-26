@@ -1,0 +1,197 @@
+.research-projects {
+  --project-accent: #13553f;
+  --project-border: #d9e3df;
+}
+
+.project-jump-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0.2rem 0 1.8rem;
+}
+
+.project-jump-links a {
+  padding: 0.45rem 0.8rem;
+  border: 1px solid var(--project-border);
+  border-radius: 6px;
+  color: var(--project-accent);
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.project-jump-links a:hover,
+.project-jump-links a:focus-visible {
+  background: #edf5f0;
+  border-color: var(--project-accent);
+}
+
+.research-projects .project-section-title {
+  margin: 2rem 0 1rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--project-border);
+  font-size: 1.3rem;
+}
+
+.research-project-card {
+  margin: 0 0 2.3rem;
+  padding: 1.5rem;
+  border: 1px solid var(--project-border);
+  border-top: 4px solid var(--project-accent);
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 3px 14px rgba(23, 53, 43, 0.04);
+  scroll-margin-top: 5rem;
+}
+
+.project-card-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem 1.7rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1.2rem;
+  border-bottom: 1px solid #e8eeeb;
+}
+
+.project-card-heading {
+  flex: 1 1 280px;
+  min-width: 0;
+}
+
+.research-project-card .project-title {
+  margin: 0 0 0.55rem;
+  color: #173c2f;
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+.project-card-heading p {
+  margin: 0.35rem 0;
+}
+
+.project-subtitle {
+  font-size: 0.9rem;
+}
+
+.project-meta {
+  color: #596761;
+  font-size: 0.78rem;
+  line-height: 1.55;
+}
+
+.project-logos {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.project-logos img {
+  display: block;
+  width: auto;
+  height: 64px;
+  max-width: 100%;
+  object-fit: contain;
+}
+
+.project-logos .logo-msca { width: 210px; height: auto; }
+.project-logos .logo-anca { width: 145px; height: auto; }
+.project-logos .logo-ntu { width: 95px; height: auto; }
+.project-logos .logo-eth { width: 130px; height: auto; }
+
+.project-collaboration {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.45rem;
+  color: #596761;
+  font-size: 0.62rem;
+  text-decoration: none;
+}
+
+.project-overview {
+  max-width: 500px;
+  margin: 1.2rem auto 1.5rem;
+}
+
+.project-overview img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.research-project-card .project-experiment-title {
+  margin: 1.6rem 0 0.65rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid #e8eeeb;
+  font-size: 1rem;
+  scroll-margin-top: 5rem;
+}
+
+.project-video-figure {
+  max-width: 760px;
+  margin: 0.8rem auto 1.5rem;
+}
+
+.project-comparison-video {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1936 / 604;
+  border-radius: 9px;
+  background: #f2f4f6;
+}
+
+.project-contouring-video { aspect-ratio: 1696 / 604; }
+
+.project-video-figure figcaption,
+.project-media-item figcaption {
+  margin-top: 0.65rem;
+  color: #586477;
+  font-size: 0.75rem;
+  line-height: 1.55;
+}
+
+.project-related-publications {
+  font-size: 0.85rem;
+}
+
+.project-media-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1.3rem;
+  margin: 0.8rem 0 1.2rem;
+}
+
+.project-media-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.project-media-item { min-width: 0; margin: 0; }
+
+.project-media-item iframe {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 8px;
+  background: #f2f4f6;
+}
+
+@media (max-width: 600px) {
+  .research-project-card { padding: 1rem; margin-bottom: 1.7rem; }
+  .project-card-header { gap: 0.9rem; }
+  .project-card-heading { flex-basis: 100%; }
+  .project-logos img { height: 55px; }
+  .project-logos .logo-msca { width: 190px; height: auto; }
+  .project-logos .logo-anca { width: 130px; height: auto; }
+  .project-logos .logo-ntu { width: 85px; height: auto; }
+  .project-logos .logo-eth { width: 120px; height: auto; }
+  .project-comparison-video { aspect-ratio: 960 / 1224; }
+  .project-contouring-video { aspect-ratio: 960 / 1404; }
+  .project-media-grid { grid-template-columns: 1fr; }
+}

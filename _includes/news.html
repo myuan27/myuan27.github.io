@@ -1,0 +1,4 @@
+{% for item in site.data.news %}
+* <span id="news-{{ item.id }}"></span>**{{ item.display_date }}** {{ item.content }}
+
+{% endfor %}
