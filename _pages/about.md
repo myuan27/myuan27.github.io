@@ -26,6 +26,8 @@ PhD Opportunities
 
 **I am actively recruiting motivated PhD students and am always open to hosting visiting scholars.** If you are interested in joining my research group, please feel free to reach out via email with your CV, a brief statement of research interests, and academic transcripts (for prospective PhD students).
 
+**[Apply here](https://www.wgtn.ac.nz/fgr/apply)** to begin your PhD application at Victoria University of Wellington.
+
 Prospective students are encouraged to explore the following funding opportunities:
 
 * **[VUW Scholarships](https://www.wgtn.ac.nz/fgr/apply/funding)**: Applicants with a strong academic record will be automatically considered for the Wellington Doctoral Scholarship, while details of further funding opportunities are available on the university website. 
