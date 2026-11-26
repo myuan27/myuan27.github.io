@@ -58,6 +58,12 @@
       venue: "IEEE Journal of Oceanic Engineering"
       year: 2025
       url: "https://ieeexplore.ieee.org/abstract/document/11131328"
+    - title: "A multi-task network for occluded meter reading with synthetic data generation technology"
+      authors: "Ye Lin, Zhezhuang Xu, Yiying Wu, **Meng Yuan**, Dan Chen, Jinyang Zhu, Yazhou Yuan"
+      venue: "Advanced Engineering Informatics"
+      year: 2025
+      url: "https://www.sciencedirect.com/science/article/pii/S147403462400702X"
+      pdf_url: "https://ndownloader.figshare.com/files/71900317"
     - title: "Building electrical load forecasting with occupancy data based on wireless sensing"
       authors: "Chi Liu, Zhezhuang Xu, **Meng Yuan**\\*, Junwei Xie, Yazhou Yuan, Kai Ma"
       venue: "Applied Energy"
