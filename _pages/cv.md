@@ -38,7 +38,12 @@ Academic Services
 
 ## Teaching
 
+Lecturer
+
+* [EEEN 415 - Advanced Control Systems Engineering](https://www.wgtn.ac.nz/courses/eeen/415/2026?crn=34029#Lecture-times-and-rooms), Victoria University of Wellington, 2026
+
 Tutor and Demonstrator
+
 * MCEN9001 - Advanced Motion Control, University of Melbourne, 2019
 * MCEN90032 - Sensor Systems, University of Melbourne, 2019
 
