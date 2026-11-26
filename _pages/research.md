@@ -97,14 +97,14 @@ author_profile: true
     <img src="../images/RRIS.png" alt="Assistive robotics research at the Rehabilitation Research Institute of Singapore" width="500" loading="lazy">
   </figure>
 
-  <h4 class="project-experiment-title" id="ntu-walking">Mobile balance assistance: walking</h4>
+  <h4 class="project-experiment-title" id="ntu-walking">Mobile balance assistance: walking and direction changes</h4>
   <figure class="project-video-figure">
     <video class="project-comparison-video" controls muted loop playsinline preload="metadata" data-preview-autoplay poster="../images/ntu-walking-comparison-poster.jpg" aria-label="Walking trials: PID control and nonlinear control, with participant faces blurred" aria-describedby="walking-caption">
       <source src="../assets/videos/ntu-walking-comparison.mp4" type="video/mp4" media="(min-width: 601px)">
       <source src="../assets/videos/ntu-walking-comparison-mobile.mp4" type="video/mp4">
       <a href="../assets/videos/ntu-walking-comparison.mp4">Download the comparison video.</a>
     </video>
-    <figcaption id="walking-caption">Illustrative walking trials comparing PID and nonlinear control, played at their original speed. Participant faces are blurred. These are separate trials, rather than a shared experimental timeline.</figcaption>
+    <figcaption id="walking-caption">Separate PID and nonlinear-control trials during walking and direction changes, shown at original speed. Both clips start together and loop over 26.9 s. Participant faces are blurred.</figcaption>
   </figure>
   <h4 class="project-experiment-title" id="ntu-turning">Mobile balance assistance: direction changes</h4>
   <figure class="project-video-figure">
