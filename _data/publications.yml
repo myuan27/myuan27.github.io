@@ -131,12 +131,14 @@
       year: 2020
       url: "https://www.sciencedirect.com/science/article/pii/S0967066120301386"
       details: "vol. 104536, pp. 104536"
+      pdf_url: "https://ndownloader.figshare.com/files/71901202"
     - title: "Error-bounded Reference Tracking MPC for Machines with Structural Flexibility"
       authors: "**Meng Yuan**\\*, Chris Manzie, Malcolm Good, Iman Shames, Lu Gan, Farzad Keynejad, Troy Robinette"
       venue: "IEEE Transactions on Industrial Electronics"
       year: 2020
       url: "https://ieeexplore.ieee.org/abstract/document/8887465"
       details: "vol. 67, no. 10"
+      pdf_url: "https://ndownloader.figshare.com/files/71901790"
     - title: "Multivariable Dynamic Modeling for Molten Iron Quality using Incremental Random Vector Functional-link Networks"
       authors: "Li Zhang, Ping Zhou, He-da Song, **Meng Yuan**, Tian-you Chai"
       venue: "Journal of Iron and Steel Research International"
