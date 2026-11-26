@@ -15,7 +15,7 @@ author_profile: true
 * Integrating reinforcement learning and predictive control for smart home energy management, European Commission, Project ID: EC/HE/101110832
   * Chalmers University of Technology, Sweden
 <p align="center">
-<img src="../images/smarthem-system-figure1.png" alt="Smart home energy management system with photovoltaic generation, HVAC, stationary storage and an electric vehicle" width="2000" height="1184" style="width: 100%; max-width: 700px; height: auto;">
+<img src="../images/smarthem-system-figure1.png" alt="Smart home energy management system with photovoltaic generation, HVAC, stationary storage and an electric vehicle" width="2000" height="1184" style="width: 100%; max-width: 500px; height: auto;">
 </p>
 To achieve carbon neutrality and reduce dependence on fossil energy, solar panels, heat pumps and electric vehicles (EVs) are becoming commonplace in European homes. The abundant solar power, geothermal energy, as well as environmentally friendly electric vehicles, reduce the usage of fossil-based energy, while posing challenges to the home energy management system at the same time due to the intermittent feature of renewable energy and potential battery degradation from EVs. This Marie Skłodowska-Curie Postdoctoral Fellowship will propose a smart home management system to optimise the entire home energy cost while considering a set of constraints related to battery safety and reliability, driver/household demand, and actuator.
 
