@@ -39,6 +39,8 @@ Prospective students are encouraged to explore the following funding opportuniti
 
 News and Updates
 ----------------
+* **2026.11** Our paper "[Filter-Augmented Reinforcement Learning for Battery Fast Charging with State of Health and Plating-Aware Reward Design](https://arxiv.org/abs/2610.22787)" has been accepted for publication in *IEEE Transactions on Transportation Electrification*. Congratulations to all co-authors!
+
 * **2026.11** I will attend the [Australasian Joint Conference on Artificial Intelligence (AJCAI 2026)](https://ajcai26.org/) in Auckland, New Zealand, from 27 to 30 November and give a **New Faculty Highlights Presentation**. I hope to see you there!
 
 * **2026.11** I will give a research talk and participate in a panel discussion on “If AI can do research, what are scholars for?” at the [Artificial Intelligence Researchers Association conference](https://www.ainz.ai/) in Dunedin, New Zealand, on 23–24 November.
