@@ -40,6 +40,7 @@
       venue: "Applied Energy"
       year: 2026
       url: "https://www.sciencedirect.com/science/article/pii/S0306261926001157"
+      pdf_url: "https://ndownloader.figshare.com/files/71899732"
     - title: "Lifelong Reinforcement Learning for Health-Aware Fast Charging of Lithium-ion Batteries"
       authors: "**Meng Yuan**, Changfu Zou"
       venue: "IEEE Transactions on Transportation Electrification"
@@ -51,6 +52,7 @@
       venue: "Energy"
       year: 2025
       url: "https://www.sciencedirect.com/science/article/pii/S0360544225031238"
+      pdf_url: "https://ndownloader.figshare.com/files/71900062"
     - title: "A Dynamic Ensemble Deep Randomized Neural Network Using Deep Autoregressive Features for Wave Height Forecasting With Missing Values"
       authors: "Ruobin Gao, Sibo Yang, **Meng Yuan**, Zicheng Wang, Maohan Liang, Ponnuthurai Nagaratnam Suganthan, Kum Fai Yuen"
       venue: "IEEE Journal of Oceanic Engineering"
@@ -83,6 +85,7 @@
       venue: "IEEE Transactions on Cybernetics"
       year: 2023
       url: "https://ieeexplore.ieee.org/abstract/document/10251978"
+      pdf_url: "https://ndownloader.figshare.com/files/71900068"
     - title: "Learning-Based Motion-Intention Prediction for End-Point Control of Upper-Limb-Assistive Robots"
       authors: "Sibo Yang, Neha P Garg, Ruobin Gao, **Meng Yuan**, Bernardo Noronha, Wei Tech Ang, Dino Accoto"
       venue: "Sensors"
