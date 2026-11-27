@@ -13,13 +13,13 @@ Students and researchers I have supervised or co-supervised across my academic a
 
 ## PhD Students
 
-* Chi Liu (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
+* Chi Liu (Main supervisor: Prof Zhezhuang Xu)
   * Project: Load prediction in industrial parks
 
-* Ye Lin (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
+* Ye Lin (Main supervisor: Prof Zhezhuang Xu)
   * Project: Machine learning techniques for wood Broken Defect Detection
 
-* Jinlong Wang (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
+* Jinlong Wang (Main supervisor: Prof Zhezhuang Xu)
   * Project: Optimization of steel plate shuffling and truck loading sequencing
 
 * Yifan Wang (Main supervisor: Prof Wei Tech Ang, co-supervised with Dr Lei Li), Nanyang Technological University, Singapore
@@ -36,10 +36,10 @@ Students and researchers I have supervised or co-supervised across my academic a
 * Adam Burman (Main supervisor: Prof Changfu Zou), Chalmers University of Technology, Sweden
   * Project: Enhancing EV battery recycling through discharge optimization
 
-* Junwei Xie (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
+* Junwei Xie (Main supervisor: Prof Zhezhuang Xu)
   * Project: Load prediction in industrial parks
 
-* Jiawei Zhou (Main supervisor: Prof Zhezhuang Xu), Fuzhou University, China
+* Jiawei Zhou (Main supervisor: Prof Zhezhuang Xu)
   * Optimization of battery charging
 
 * Chin Xian Ang (Robotic Research Engineer, currently in HP, Singapore), Nanyang Technological University, Singapore
@@ -47,7 +47,7 @@ Students and researchers I have supervised or co-supervised across my academic a
 
 ## Undergraduate Students
 
-* [Hanlin Cai](https://caihanlin.com/), Fuzhou University, China
+* [Hanlin Cai](https://caihanlin.com/)
     * Currently, a PhD student at the University of Cambridge, UK
 
 [//]: # (* Will be joining Cambridge University in Sep 2024 for MPhil)
