@@ -21,6 +21,8 @@ I welcome inquiries and collaboration on my research. Please feel free to contac
 Email: [meng.yuan@vuw.ac.nz](mailto:meng.yuan@vuw.ac.nz), [meng.yuan@ieee.org](mailto:meng.yuan@ieee.org)
 
 
+**I currently have no funding available for postdoctoral positions.**
+
 PhD Opportunities
 -----------------
 

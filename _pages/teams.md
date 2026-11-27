@@ -7,6 +7,8 @@ author_profile: true
 
 **I am actively recruiting motivated PhD students and am always open to hosting visiting scholars.**
 
+**I currently have no funding available for postdoctoral positions.**
+
 My research focuses on energy management and human-robot collaboration. For current application rounds, funding opportunities and application details, see **[PhD Opportunities](../#phd-opportunities)**.
 
 Students and researchers I have supervised or co-supervised across my academic appointments.
